@@ -1,0 +1,407 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "products": "Products",
+    "bulkSupply": "Bulk Supply",
+    "logistics": "Logistics",
+    "gallery": "Gallery",
+    "blog": "Blog",
+    "contact": "Contact",
+    "getQuote": "Get a Quote"
+  },
+  "hero": {
+    "badge": "India's Trusted Bulk Produce Supplier",
+    "title": "Fresh From Farm",
+    "titleHighlight": "To Your Doorstep",
+    "subtitle": "Premium bulk fruits and vegetables supplied directly to wholesalers, retailers, restaurants, hotels, and institutional buyers across India.",
+    "cta1": "Request a Quote",
+    "cta2": "Explore Products",
+    "stat1": {
+      "value": "500+",
+      "label": "Tonnes Daily"
+    },
+    "stat2": {
+      "value": "1200+",
+      "label": "Happy Clients"
+    },
+    "stat3": {
+      "value": "25+",
+      "label": "Years Experience"
+    }
+  },
+  "about": {
+    "badge": "About Green Harvest Produce",
+    "title": "Two Decades of",
+    "titleHighlight": "Freshness & Reliability",
+    "body": "Founded in 2001, Green Harvest Produce has grown into one of India's most trusted bulk suppliers of fresh fruits and vegetables. We bridge the gap between farmers and businesses, ensuring premium quality produce reaches your facility on time, every time.",
+    "mission": "Mission",
+    "missionText": "To deliver the freshest, highest-quality produce while supporting Indian farmers and creating sustainable supply chains.",
+    "vision": "Vision",
+    "visionText": "To become India's #1 bulk produce distribution network, reaching every corner of the country.",
+    "learnMore": "Learn More About Us"
+  },
+  "products": {
+    "badge": "Our Product Range",
+    "title": "Farm-Fresh Selection",
+    "subtitle": "Sourced directly from certified farms across India. Available year-round with seasonal varieties.",
+    "fruits": "Fruits",
+    "vegetables": "Vegetables",
+    "viewAll": "View All Products",
+    "minOrder": "Min. Order",
+    "packaging": "Packaging",
+    "availability": "Availability",
+    "available": "Available",
+    "seasonal": "Seasonal",
+    "preOrder": "Pre-Order",
+    "requestQuote": "Request Quote"
+  },
+  "why": {
+    "badge": "Why Choose Us",
+    "title": "The Green Harvest Difference",
+    "subtitle": "We don't just supply produce — we deliver a complete supply chain solution built around your business needs.",
+    "features": {
+      "quality": {
+        "title": "Uncompromising Quality",
+        "desc": "Every batch is inspected and graded to meet FSSAI and export-quality standards."
+      },
+      "delivery": {
+        "title": "On-Time Delivery",
+        "desc": "Our fleet of 50+ refrigerated vehicles ensures timely delivery to your facility."
+      },
+      "pricing": {
+        "title": "Competitive Bulk Pricing",
+        "desc": "Direct farm procurement eliminates middlemen — savings passed on to you."
+      },
+      "cold": {
+        "title": "Cold Chain Certified",
+        "desc": "State-of-the-art cold storage at every stage from farm to final delivery."
+      },
+      "tracking": {
+        "title": "Real-Time Tracking",
+        "desc": "Track your order from dispatch to delivery with our logistics dashboard."
+      },
+      "support": {
+        "title": "24/7 Support",
+        "desc": "Dedicated account managers available around the clock for your queries."
+      }
+    }
+  },
+  "stats": {
+    "title": "Numbers That Speak",
+    "subtitle": "Our track record of delivering excellence to businesses across India.",
+    "tonnes": "Tonnes Delivered Daily",
+    "clients": "Active Business Clients",
+    "years": "Years in Business",
+    "states": "States Covered",
+    "farmers": "Farmer Partners",
+    "varieties": "Product Varieties"
+  },
+  "testimonials": {
+    "badge": "What Our Clients Say",
+    "title": "Trusted by Businesses Across India"
+  },
+  "cta": {
+    "title": "Ready to Streamline Your Produce Supply?",
+    "subtitle": "Join 1,200+ businesses that trust Green Harvest for consistent, quality produce at scale.",
+    "button1": "Get a Free Quote",
+    "button2": "Talk to Sales"
+  },
+  "footer": {
+    "tagline": "India's trusted bulk supplier of fresh fruits and vegetables. Connecting farms to businesses since 2001.",
+    "quickLinks": "Quick Links",
+    "products": "Products",
+    "contact": "Contact Us",
+    "address": "123, Agri Business Park, Pune - 411001, Maharashtra, India",
+    "phone": "+91 98765 43210",
+    "email": "sales@greenharvestproduce.com",
+    "hours": "Mon-Sat: 6:00 AM - 8:00 PM",
+    "rights": "All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  },
+  "contact": {
+    "badge": "Get In Touch",
+    "title": "Let's Discuss Your Requirements",
+    "subtitle": "Fill out the form and our sales team will get back to you within 2 business hours.",
+    "contactInfo": "Contact Information",
+    "name": "Full Name",
+    "company": "Company Name",
+    "email": "Email Address",
+    "phone": "Phone Number",
+    "product": "Product Required",
+    "quantity": "Estimated Quantity",
+    "message": "Message",
+    "submit": "Send Inquiry",
+    "success": "Thank you! We'll contact you shortly.",
+    "placeholders": {
+      "name": "John Doe",
+      "company": "ABC Supermarket Pvt. Ltd.",
+      "email": "john@company.com",
+      "phone": "+91 98765 43210",
+      "product": "e.g., Onions, Tomatoes, Mixed Vegetables",
+      "quantity": "e.g., 5 Tonnes per week",
+      "message": "Tell us about your requirements..."
+    }
+  },
+  "chatbot": {
+    "greeting": "Hello! I'm Harvy, Green Harvest's AI assistant. How can I help you today?",
+    "placeholder": "Ask me anything...",
+    "send": "Send",
+    "suggestions": [
+      "Do you supply onions in bulk?",
+      "What's your minimum order quantity?",
+      "Which cities do you deliver to?",
+      "Can you export internationally?"
+    ]
+  },
+  "aboutPage": {
+    "heroBadge": "Our Story",
+    "heroTitle": "Growing India's Food Future",
+    "heroSubtitle": "From a small operation in Pune to India's trusted bulk produce partner — 25 years of farm-to-business excellence.",
+    "storyBadge": "Our Journey",
+    "storyTitle": "The Green Harvest Story",
+    "storyP1": "Green Harvest Produce was born in 2001 from a simple but powerful idea: eliminate the inefficiencies between farmers and businesses that needed fresh produce in bulk.",
+    "storyP2": "Founder Suresh Patel, a second-generation farmer, saw first-hand how good produce was being wasted due to poor logistics and how businesses were paying premium prices for mediocre quality. He set out to build a bridge.",
+    "storyP3": "Starting with just three refrigerated trucks and partnerships with 20 local farmers in Pune's fringe areas, Green Harvest began supplying to local restaurants and small supermarkets. The quality spoke for itself, and word spread fast.",
+    "storyP4": "Today, we operate a fleet of 50+ vehicles, manage four cold storage facilities across Maharashtra, and supply to 1,200+ businesses across 15 Indian states.",
+    "valuesBadge": "What We Stand For",
+    "valuesTitle": "Our Core Values",
+    "values": {
+      "integrity": {
+        "title": "Integrity",
+        "desc": "Honest, transparent sourcing with fair pricing for farmers and buyers alike."
+      },
+      "sustainability": {
+        "title": "Sustainability",
+        "desc": "Promoting eco-friendly farming practices and minimizing food waste."
+      },
+      "quality": {
+        "title": "Quality First",
+        "desc": "Uncompromising quality standards at every stage of our supply chain."
+      },
+      "partnership": {
+        "title": "Partnership",
+        "desc": "Building long-term, mutually beneficial relationships with all stakeholders."
+      },
+      "reliability": {
+        "title": "Reliability",
+        "desc": "Delivering on our promises consistently — on time, every time."
+      },
+      "excellence": {
+        "title": "Excellence",
+        "desc": "Continuously improving our processes, technology, and service standards."
+      }
+    },
+    "teamBadge": "The People",
+    "teamTitle": "Our Leadership Team",
+    "certTitle": "Certifications & Compliance",
+    "certSubtitle": "Every certificate is a commitment to the highest standards in food safety and quality.",
+    "since": "Since",
+    "m2001": "Founded in Pune with 3 trucks and 20 farmer partners",
+    "m2005": "Expanded to Mumbai and Nashik markets",
+    "m2010": "Opened first cold storage warehouse (10,000 sq ft)",
+    "m2015": "Launched corporate supply division for hotels & restaurants",
+    "m2019": "Achieved ISO 9001:2015 certification",
+    "m2022": "Expanded to 15 states with 50+ vehicle fleet",
+    "m2024": "Launched export division for international markets"
+  },
+  "productsPage": {
+    "heroBadge": "Our Products",
+    "heroTitle": "Farm-Fresh Selection",
+    "heroSubtitle": "Sourced directly from certified farms across India. Premium quality, consistent supply.",
+    "allProducts": "All Products",
+    "fruits": "Fruits",
+    "vegetables": "Vegetables",
+    "searchPlaceholder": "Search products...",
+    "season": "Season",
+    "minOrder": "Min. Order",
+    "requestQuote": "Request Quote",
+    "noProducts": "No products found for",
+    "packagingTitle": "Custom Packaging Available",
+    "packagingSubtitle": "We offer flexible packaging to match your requirements — branded, private-label, or standard.",
+    "available": "Available",
+    "seasonal": "Seasonal"
+  },
+  "bulkSupplyPage": {
+    "heroBadge": "Bulk Supply Solutions",
+    "heroTitle": "Tailored for Every Business",
+    "heroSubtitle": "Whether you run a 50-cover restaurant or a pan-India supermarket chain, we have a supply solution designed for your scale and needs.",
+    "featuresLabel": "Key Features",
+    "clientsLabel": "Who We Serve",
+    "ctaTitle": "Ready to Set Up Your Supply?",
+    "ctaSubtitle": "Talk to our sales team today and get a customised quote within 2 hours.",
+    "ctaButton": "Request a Bulk Quote",
+    "processTitle": "How It Works",
+    "processBadge": "Simple 4-Step Process",
+    "steps": {
+      "s1": {
+        "title": "Submit Inquiry",
+        "desc": "Fill out our inquiry form with your product, quantity, and delivery requirements."
+      },
+      "s2": {
+        "title": "Get Custom Quote",
+        "desc": "Our sales team prepares a tailored quote within 2-4 business hours."
+      },
+      "s3": {
+        "title": "Confirm & Schedule",
+        "desc": "Review, confirm, and set your preferred delivery schedule."
+      },
+      "s4": {
+        "title": "Regular Delivery",
+        "desc": "Receive fresh produce on your doorstep as per the agreed schedule."
+      }
+    },
+    "seg1Title": "Restaurants & QSR",
+    "seg1Desc": "Consistent, chef-grade quality tailored for high-volume kitchens. Daily deliveries available.",
+    "seg1Features": [
+      "Daily delivery schedules",
+      "Pre-cut & ready-to-cook options",
+      "Minimum 50 kg per order",
+      "Dedicated account manager"
+    ],
+    "seg1Clients": [
+      "Fine dining restaurants",
+      "QSR chains",
+      "Cloud kitchens",
+      "Catering companies"
+    ],
+    "seg2Title": "Hotels & Resorts",
+    "seg2Desc": "Premium-grade produce for 3-star to 5-star properties. Customised delivery schedules to match your kitchen's needs.",
+    "seg2Features": [
+      "Grade-A certified produce",
+      "Export quality standards",
+      "Flexible delivery windows",
+      "Emergency backup supply"
+    ],
+    "seg2Clients": [
+      "Luxury hotels",
+      "Business hotels",
+      "Resorts & spas",
+      "Club houses"
+    ],
+    "seg3Title": "Supermarkets & Retail",
+    "seg3Desc": "Consistent shelf-ready produce with proper sorting, grading, and packaging for retail display.",
+    "seg3Features": [
+      "Retail-ready packaging",
+      "Private label options",
+      "Category management support",
+      "FSSAI compliant labelling"
+    ],
+    "seg3Clients": [
+      "Supermarket chains",
+      "Hypermarkets",
+      "Kirana stores",
+      "Specialty food stores"
+    ],
+    "seg4Title": "Wholesalers & Traders",
+    "seg4Desc": "Large-volume procurement at competitive rates. Direct-from-farm pricing with consistent grading.",
+    "seg4Features": [
+      "Volume-based pricing",
+      "Flexible payment terms",
+      "Overnight dispatch available",
+      "Multi-state distribution support"
+    ],
+    "seg4Clients": [
+      "Mandi traders",
+      "Wholesale distributors",
+      "Regional distributors",
+      "Export houses"
+    ],
+    "seg5Title": "Food Processors",
+    "seg5Desc": "Bulk, specification-grade raw materials for processing plants — consistent Brix, size, and moisture levels.",
+    "seg5Features": [
+      "Specification-matched supply",
+      "Bulk tanker delivery available",
+      "Lab-tested quality reports",
+      "Seasonal advance booking"
+    ],
+    "seg5Clients": [
+      "Pickle manufacturers",
+      "Ketchup & sauce plants",
+      "Juice processors",
+      "Frozen food factories"
+    ],
+    "seg6Title": "Export & International",
+    "seg6Desc": "APEDA-certified export quality produce with full phytosanitary compliance for international shipments.",
+    "seg6Features": [
+      "APEDA registered exporter",
+      "Phytosanitary certificates",
+      "Pre-cooling & blast freezing",
+      "Documentation assistance"
+    ],
+    "seg6Clients": [
+      "Middle East importers",
+      "European supermarkets",
+      "South East Asia distributors",
+      "GCC markets"
+    ]
+  },
+  "logisticsPage": {
+    "heroBadge": "Logistics & Distribution",
+    "heroTitle": "Farm-to-Door, Every Time",
+    "heroSubtitle": "Our integrated cold chain logistics network ensures your produce arrives fresh, on time, and at the right temperature — no exceptions.",
+    "capabilitiesTitle": "Our Logistics Capabilities",
+    "cap1Title": "Cold Chain Management",
+    "cap1Desc": "Continuous temperature monitoring from -2C to 8C ensures produce freshness throughout transit.",
+    "cap2Title": "Cold Storage Warehouses",
+    "cap2Desc": "Four strategically located cold storage facilities across Maharashtra with combined capacity of 50,000 MT.",
+    "cap3Title": "Refrigerated Fleet",
+    "cap3Desc": "50+ owned and partnered refrigerated trucks with GPS tracking for real-time monitoring.",
+    "cap4Title": "Pan-India Network",
+    "cap4Desc": "Delivery to 200+ cities and towns across 15 states with last-mile partnerships in Tier-2 & Tier-3 cities.",
+    "cap5Title": "Real-Time Tracking",
+    "cap5Desc": "GPS-enabled shipment tracking. Clients receive automated dispatch and delivery notifications via SMS and email.",
+    "cap6Title": "On-Time Performance",
+    "cap6Desc": "98.7% on-time delivery rate maintained over the last 12 months, with 24/7 operations team support.",
+    "coldChainTitle": "The Cold Chain Journey",
+    "ccStep1": "Farm Harvest",
+    "ccStep2": "Pre-Cooling",
+    "ccStep3": "Cold Storage",
+    "ccStep4": "Refrigerated Transit",
+    "ccStep5": "Your Facility",
+    "warehouseNetworkTitle": "Our Warehouse Network",
+    "warehouseNetworkSubtitle": "Strategically located across Maharashtra for maximum freshness and speed.",
+    "wh1Type": "Primary Hub",
+    "wh2Type": "Farm Collection",
+    "wh3Type": "Distribution Hub",
+    "wh4Type": "Regional Hub",
+    "warehousesTitle": "Cold Storage Locations",
+    "warehouseCity": "Location",
+    "warehouseArea": "Area",
+    "warehouseCapacity": "Capacity",
+    "warehouseTemp": "Temperature",
+    "warehouseType": "Type",
+    "coverageTitle": "Pan-India Coverage",
+    "coverageSubtitle": "Delivering to 200+ cities across 15 states, with growing reach every quarter.",
+    "ctaTitle": "Need a Logistics Solution?",
+    "ctaSubtitle": "Discuss your delivery requirements with our logistics team.",
+    "ctaButton": "Talk to Our Team"
+  },
+  "galleryPage": {
+    "heroTitle": "Our Gallery",
+    "heroSubtitle": "A visual journey through our farms, warehouses, products, and the people behind Green Harvest Produce.",
+    "all": "All",
+    "farm": "Farm",
+    "warehouse": "Warehouse",
+    "productsLabel": "Products",
+    "delivery": "Delivery",
+    "team": "Team",
+    "close": "Close",
+    "zoomIn": "View full size"
+  },
+  "blogPage": {
+    "heroTitle": "Insights & Updates",
+    "heroSubtitle": "Market intelligence, seasonal guides, and agri-business insights for bulk produce buyers.",
+    "featured": "Featured Article",
+    "readMore": "Read Article",
+    "minRead": "min read",
+    "allCategories": "All",
+    "latestPosts": "Latest Articles",
+    "by": "By",
+    "newsletter": "Stay Updated",
+    "newsletterSubtitle": "Get weekly market insights and seasonal guides delivered to your inbox.",
+    "emailPlaceholder": "Your email address",
+    "subscribe": "Subscribe"
+  }
+}
