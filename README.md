@@ -10,7 +10,7 @@
 [![next-intl](https://img.shields.io/badge/i18n-EN%20%7C%20हिंदी%20%7C%20मराठी-green)](https://next-intl-docs.vercel.app/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-[Live Demo](#) · [Report Bug](../../issues) · [Request Feature](../../issues)
+[Live Demo](https://green-harvest-produce.vercel.app) · [Report Bug](../../issues) · [Request Feature](../../issues)
 
 </div>
 
@@ -91,7 +91,7 @@ green-harvest-produce/
 ### 1. Clone & Install
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/green-harvest-produce.git
+git clone https://github.com/kartikjsonawane/green-harvest-produce.git
 cd green-harvest-produce
 npm install
 ```
@@ -181,7 +181,7 @@ export async function POST(req: NextRequest) {
 
 ### One-click deploy
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/YOUR_USERNAME/green-harvest-produce)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/kartikjsonawane/green-harvest-produce)
 
 ### Manual deploy
 
