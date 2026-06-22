@@ -54,7 +54,7 @@ Get in touch with our sales team to discuss how we can structure a supply agreem
 };
 
 export default async function BlogPostPage({ params }: { params: Promise<{ slug: string }> }) {
-  await params; // Next.js 15: params is a Promise
+  const { slug: _slug } = await params; // Next.js 15: params is a Promise
   return (
     <div>
       {/* Header */}
