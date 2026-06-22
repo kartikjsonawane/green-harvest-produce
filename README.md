@@ -222,3 +222,11 @@ npm run lint     # ESLint check
 ## 📄 License
 
 MIT — free to use and modify for commercial projects.
+
+---
+
+## 👤 Author
+
+**Kush** · [GitHub @kartikjsonawane](https://github.com/kartikjsonawane)
+
+> Built with Next.js 15, next-intl, Tailwind CSS, and Framer Motion.
